@@ -3,9 +3,9 @@ age=int(input("ENter emp age"))
 if emp=='m':
     if age>=90:
         print("Your pantion is: 4000")
-    if age>=60:
+    elif age>=60:
         print("Your pantion is:6000")
-    if age<60:
+    elif age<60:
         print("pention is :0")
 else:
     if emp=='f':
