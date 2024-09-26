@@ -13,7 +13,7 @@ else:
     if emp=='f':
      if age>=90:
       print("Your pantioon is: 3000")
-     if age<=60 and age>=89 :
+     if age>=60 :
       print("your pantion is: 5000")
      elif age<60:
       print("pantion is 0")

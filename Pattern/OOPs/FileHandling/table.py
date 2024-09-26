@@ -7,6 +7,7 @@ for i in range(1,11):
     #     file.write("or")
 
 
+
 """Que.01 take number with user and print table      take table 2,3,4,5,6,7"""
 
 
