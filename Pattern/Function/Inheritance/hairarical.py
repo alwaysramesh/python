@@ -9,11 +9,11 @@ class s(p):
 class d(p):
     def mod(self):
         print("This is mod class")
-obs = s();
-obd = d();
+obs = s()
+obd = d()
 
 obs.add()
-obs.div();
+obs.div()
 
 obd.add()
 obd.mod()
