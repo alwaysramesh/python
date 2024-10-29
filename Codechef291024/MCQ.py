@@ -33,3 +33,18 @@ Hello World 5 end1 2'''
 #correct Option
 #  Hello World 5 endl 2
 
+# Que. 03
+'''Output Challenge - MCQ
+What will the following code's output?
+
+print("Hello")
+print(" World!")
+
+Select one of the following options:
+1) Hello World!
+2) HelloWorld!
+3) Hello 
+   World!'''
+#Correct Answer
+'''None of the above'''
+
