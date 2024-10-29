@@ -73,3 +73,14 @@ Declaring the age as a constant
 Initializing a boolean variable'''
 #Correct- Declaring the age as a constant
 
+# Que. 06
+'''Identify correct syntax
+Identify the correct syntax to use char data type
+
+Select one of the following options:
+
+1) character ch = 'c';
+2) char ch = 'ch';
+3) char ch 'ch'
+4) None of the above'''
+#Correct-  Mone of the above
