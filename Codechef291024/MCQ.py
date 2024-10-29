@@ -48,3 +48,15 @@ Select one of the following options:
 #Correct Answer
 '''None of the above'''
 
+# Que. 04
+'''Print 1 to 5
+How do you print the numbers 1 to 5 on the same line with spaces?
+
+Select one of the following options:
+print(1,2,3,4,5)
+print("1 2 3 4 5")
+Both A and B
+None of the above'''
+#Correct Answwer:
+'''Both A and B'''
+
