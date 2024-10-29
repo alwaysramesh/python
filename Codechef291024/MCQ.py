@@ -59,4 +59,17 @@ Both A and B
 None of the above'''
 #Correct Answwer:
 '''Both A and B'''
+# Que. 05
+'''Python Variables - MCQ
+What does the following code represent?
+
+age = 25
+
+Select one of the following options:
+
+Printing the age variable
+Storing the value 25 in the age variable
+Declaring the age as a constant
+Initializing a boolean variable'''
+#Correct- Declaring the age as a constant
 
