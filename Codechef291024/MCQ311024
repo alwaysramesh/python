@@ -1,0 +1,15 @@
+'''Grade Assignment Logic - MCQ
+What does the following code do?
+
+marks = 75
+if marks >= 60:
+    grade = 'A'
+else:
+    grade = 'B'
+    
+    Select the correct option(s):
+01) Assigns 'A' to grade if marks are greater than or equal to 60
+02) Assigns 'B' to grade if marks are greater than or equal to 60
+03) Assigns 'A' to grade if marks are less than 60
+04) Assigns 'B' to grade if marks are less than 60'''
+#Correct:- 01) Assigns 'A' to grade if marks are greater than or equal to 60 
