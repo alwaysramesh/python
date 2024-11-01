@@ -12,4 +12,40 @@ else:
 02) Assigns 'B' to grade if marks are greater than or equal to 60
 03) Assigns 'A' to grade if marks are less than 60
 04) Assigns 'B' to grade if marks are less than 60'''
-#Correct:- 01) Assigns 'A' to grade if marks are greater than or equal to 60 
+#Correct:- 01) Assigns 'A' to grade if marks are greater than or equal to 60
+ #Que. 02
+'''Conditional Statements - MCQ
+What will be the output of the following code?
+
+x = 62
+y = 62
+if x > y:
+    print("x is greater")
+else y > x:
+    print("y is greater")
+else:
+    print("both are equal")
+    
+    Select one of the following options:
+01) x is greater
+02) y is greater 
+03) both are equal
+04) Throws an error'''
+#Correct:- 04) Throws an error
+# 
+# Que.03
+'''Multiple choice question
+What would be the output of the code below?
+
+a = 10
+b = 2
+a /= b
+print(a)
+
+Select the correct option.
+01) 10
+02) 4
+03) 5.0
+04) 21
+05) 5'''
+#Correct:- 03) 5.0 
