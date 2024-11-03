@@ -84,3 +84,15 @@ Select one of the following options:
 3) char ch 'ch'
 4) None of the above'''
 #Correct-  Mone of the above
+
+# Que. 07
+'''Identify Incorrect Syntax
+Identify the incorrect syntax from the below options.
+
+Select one of the following options:
+bool b = false;
+bool b = 1;
+bool b = 2;
+All of these'''
+#Correct-  All Of these
+#03102034
