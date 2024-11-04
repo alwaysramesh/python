@@ -99,3 +99,22 @@ while number > 0:
 03) Prints odd numbers from 9 to 1
 04) Enters an infinite loop'''
 #Correct=Prints even numbers from 10 to 2
+#Que.08 MCQ
+'''Print Squares
+Write a program that utilizes a while loop to print the squares of numbers from 1 to 
+N
+N.
+
+Check the sample input / output below further clarity
+
+Sample 1:
+Input
+Output
+5
+1 4 9 16 25'''
+#Code:- 
+num = int(input())
+# Update your code below this line
+for i in range(1,num+1):
+    print(i*i,end=" ")
+    num+=1
