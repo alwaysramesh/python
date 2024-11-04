@@ -68,3 +68,19 @@ Select one of the following options:
 03) Compilation error
 04) None of the above '''
 #Corrct= Infinite loop
+
+#Que.06
+'''Number of evaluation
+How many times will the following while loop execute?
+
+x = 5
+while x > 0:
+    print(x, end=" ")
+    x -= 1
+    
+    Select one of the following options:
+01) 4
+02) 5
+03)6
+04) Infinite loop'''
+#Correct=5
