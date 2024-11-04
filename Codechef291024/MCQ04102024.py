@@ -28,3 +28,15 @@ while x < 5:
 03) 2 4 6
 04) 0 2 4 6 8'''
 #correct= 0 2 4
+
+#Que. 03
+'''Evaluation in while
+In a while loop, when does the condition get evaluated?
+
+Select one of the following options:
+
+01) Before each iteration
+02) After each iteration
+03) Only at the start of the loop
+04) Only at the end of the loop'''
+#Correct:-Before each iteration
