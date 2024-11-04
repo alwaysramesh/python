@@ -52,3 +52,19 @@ Select one of the following options:
 03) The loop is skipped, and the code inside is not executed
 04) The loop throws an error'''
 #Correct= The loop is skipped, and the code inside is not executed
+
+#Que.05 MCQ
+'''Suspicious Loop - MCQ
+What does the following code snippet do?
+
+x = 1
+while x > 0:
+    print(x, end="")
+    x += 1
+Select one of the following options:
+
+01) Syntax error
+02) Infinite loop
+03) Compilation error
+04) None of the above '''
+#Corrct= Infinite loop
