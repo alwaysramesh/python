@@ -40,3 +40,15 @@ Select one of the following options:
 03) Only at the start of the loop
 04) Only at the end of the loop'''
 #Correct:-Before each iteration
+
+#Que.04 MCQ
+'''While Loop Initial Condition - MCQ
+What happens if the initial condition of a while loop is false?
+
+Select one of the following options:
+
+01) The loop executes once.
+02) The loop runs indefinitely
+03) The loop is skipped, and the code inside is not executed
+04) The loop throws an error'''
+#Correct= The loop is skipped, and the code inside is not executed
