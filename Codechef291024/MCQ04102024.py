@@ -84,3 +84,18 @@ while x > 0:
 03)6
 04) Infinite loop'''
 #Correct=5
+
+#Que.07
+'''Printing using While
+number = 10
+while number > 0:
+    print(number)
+    number -= 2
+    
+    Select one of the following options:
+
+01) Prints numbers from 10 to 1 in steps of 2
+02) Prints even numbers from 10 to 2
+03) Prints odd numbers from 9 to 1
+04) Enters an infinite loop'''
+#Correct=Prints even numbers from 10 to 2
