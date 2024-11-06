@@ -118,3 +118,23 @@ num = int(input())
 for i in range(1,num+1):
     print(i*i,end=" ")
     num+=1
+
+#Que.09 MCQ
+'''String repetition
+In Python, you can multiply strings to create a new string that repeats the original string a certain number of times. This technique is known as string repetition or string replication.
+
+The multiplication operator (*) is used to repeat a string a specified number of times.
+
+string = "hello "
+result = string * 3
+print(result) # output: hello hello hello
+
+# string is assigned the value `hello`.
+# string * 3 creates a new string by repeating `hello` three times.
+# The result, `hello hello hello`, is stored in the variable result and printed.
+Task
+Write a program to print the word tenet 100 times'''
+# Update your code below this line
+string="tenet"
+result=string*100
+print(result)
