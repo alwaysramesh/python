@@ -138,3 +138,4 @@ Write a program to print the word tenet 100 times'''
 string="tenet"
 result=string*100
 print(result)
+#next day.
