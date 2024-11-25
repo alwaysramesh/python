@@ -139,3 +139,4 @@ string="tenet"
 result=string*100
 print(result)
 #next day.
+print(10 and 20)
