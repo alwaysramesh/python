@@ -31,7 +31,7 @@ class Student:
          
 
 if __name__ == "__main__":
-    centraLibrary = Library(["algorithms", "django", "clrs", "python notes"])
+    centraLibrary = Library(["Clean Code", "The Pragmatic Programmer", "Designing Data-Intensive Applications ", "python notes"])
     student = Student()
     # centraLibrary.displayAvailableBooks()
     while(True):
