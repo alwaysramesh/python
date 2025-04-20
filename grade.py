@@ -8,4 +8,5 @@ if(per<30):
     print("Result is: Fail")
 else:
     print("result is: Pass")
-    print("This is commit")
+if per>0:
+    print("No")   
